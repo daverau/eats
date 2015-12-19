@@ -2,6 +2,11 @@
 
 A food and mood journal. Track what you're eating and how you're feeling over time. Find trends in mood patterns or just simply use as a food diary.
 
+<img src="http://daverau.info/folio3/eats1.png">
+<img src="http://daverau.info/folio3/eats4.png">
+<img src="http://daverau.info/folio3/eats2.png">
+<img src="http://daverau.info/folio3/eats3.png">
+
 ## Stack
 I started this project in 2009 and it's codebase has changed mainly for easier user authentication using other libraries.
 - PHP/MySQL
